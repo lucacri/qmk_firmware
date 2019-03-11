@@ -11,3 +11,6 @@
 [submodule "lib/googletest"]
 	path = lib/googletest
 	url = https://github.com/google/googletest
+[submodule "keyboards/satan/keymaps/lucacri"]
+	path = keyboards/satan/keymaps/lucacri
+	url = git@gitlab.lucacri.dyndns-server.com:lucacri/gh-60-qmk.git
